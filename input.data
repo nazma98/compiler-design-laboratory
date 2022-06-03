@@ -1,0 +1,6 @@
+class  Car extends Vehicle
+public class JavaIsCrazy implements Factory, Builder, Listener
+class 24Test
+public final class President extends Person implements Official
+class Car extends Vehicle, Bus
+
